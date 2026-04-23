@@ -1,4 +1,4 @@
-const moduladosBase = "/scr/modulados";
+const moduladosBase = "./modulados";
 
 function buildImages(folder, files) {
     return files.map((file) => `${moduladosBase}/${folder}/${file}`);
@@ -37,8 +37,8 @@ window.BND_MODULADOS = {
             category: "aereo",
             name: "Aéreo com Exaustor",
             color: "Cinza Cobalto",
-            price: "R$ 798,00",
-            credit: "R$ 84,99",
+            price: "R$ 917,90",
+            credit: "R$ 101,90",
             images: buildImages("aereocomexaustor/Cinza", [
                 "aereocomexaustorcinza1.png",
                 "aereocomexaustorcinza2.png",
@@ -52,8 +52,8 @@ window.BND_MODULADOS = {
             category: "aereo",
             name: "Aéreo com Exaustor",
             color: "Preto",
-            price: "R$ 798,00",
-            credit: "R$ 84,99",
+            price: "R$ 917,90",
+            credit: "R$ 101,90",
             images: buildImages("aereocomexaustor/Preto", [
                 "aereocomexaustorpreto4.png",
                 "aereocomexaustorpreto2.png",
@@ -82,8 +82,8 @@ window.BND_MODULADOS = {
             category: "aereo",
             name: "Aéreo com Micro",
             color: "Cinza Cobalto",
-            price: "R$ 918,00",
-            credit: "R$ 103,98",
+            price: "R$ 1.055,17",
+            credit: "R$ 117,20",
             images: buildImages("aereocommicro/Cinza", [
                 "aereocommicrocinza4.png",
                 "aereocommicrocinza1.png",
@@ -96,8 +96,8 @@ window.BND_MODULADOS = {
             category: "aereo",
             name: "Aéreo com Micro",
             color: "Preto",
-            price: "R$ 918,00",
-            credit: "R$ 103,98",
+            price: "R$ 1.055,17",
+            credit: "R$ 117,20",
             images: buildImages("aereocommicro/Preto", [
                 "aereocommicropreto4.png",
                 "aereocommicropreto1.png",
@@ -126,8 +126,8 @@ window.BND_MODULADOS = {
             category: "aereo",
             name: "Aéreo com Nicho",
             color: "Cinza Cobalto",
-            price: "R$ 870,00",
-            credit: "R$ 102,99",
+            price: "R$ 1.000,00",
+            credit: "R$ 110,00",
             images: buildImages("aereocomnicho/Cinza", [
                 "aereocomnichocinza4.png",
                 "aereocomnichocinza2.png",
@@ -141,8 +141,8 @@ window.BND_MODULADOS = {
             category: "aereo",
             name: "Aéreo com Nicho",
             color: "Preto",
-            price: "R$ 870,00",
-            credit: "R$ 102,99",
+            price: "R$ 1.000,00",
+            credit: "R$ 110,00",
             images: buildImages("aereocomnicho/Preto", [
                 "aereocomnichopreto4.png",
                 "aereocomnichopreto2.png",
@@ -154,7 +154,7 @@ window.BND_MODULADOS = {
         {
             id: "balcaocomcooktop-branco",
             category: "balcao",
-            name: "Balcão com Cooktop",
+            name: "Balcão Cooktop",
             color: "Branco",
             price: "R$ 1.110,00",
             credit: "R$ 124,99",
@@ -170,10 +170,10 @@ window.BND_MODULADOS = {
         {
             id: "balcaocomcooktop-cinza",
             category: "balcao",
-            name: "Balcão com Cooktop",
+            name: "Balcão Cooktop",
             color: "Cinza Cobalto",
-            price: "R$ 1.110,00",
-            credit: "R$ 124,99",
+            price: "R$ 1.276.50",
+            credit: "R$ 141,70",
             images: buildImages("balcaocomcooktop/Cinza", [
                 "balcaocomcooktopcinza4.png",
                 "balcaocomcooktopcinza2.png",
@@ -184,10 +184,10 @@ window.BND_MODULADOS = {
         {
             id: "balcaocomcooktop-preto",
             category: "balcao",
-            name: "Balcão com Cooktop",
+            name: "Balcão Cooktop",
             color: "Preto",
-            price: "R$ 1.110,00",
-            credit: "R$ 124,99",
+            price: "R$ 1.276.50",
+            credit: "R$ 141,70",
             images: buildImages("balcaocomcooktop/Preto", [
                 "balcaocomcooktoppreto4.png",
                 "balcaocomcooktoppreto2.png",
@@ -216,8 +216,8 @@ window.BND_MODULADOS = {
             category: "balcao",
             name: "Balcão Pia",
             color: "Cinza Cobalto",
-            price: "R$ 1.690,00",
-            credit: "R$ 189,00",
+            price: "R$ 1.943,50",
+            credit: "R$ 215,80",
             images: buildImages("balcaopia/Cinza", [
                 "balcaopiacinza4.png",
                 "balcaopiacinza2.png",
@@ -231,8 +231,8 @@ window.BND_MODULADOS = {
             category: "balcao",
             name: "Balcão Pia",
             color: "Preto",
-            price: "R$ 1.690,00",
-            credit: "R$ 189,00",
+            price: "R$ 1.943,50",
+            credit: "R$ 215,80",
             images: buildImages("balcaopia/Preto", [
                 "balcaopiapreto4.png",
                 "balcaopiapreto2.png",
@@ -261,8 +261,8 @@ window.BND_MODULADOS = {
             category: "balcao",
             name: "Balcão Tanque",
             color: "Cinza Cobalto",
-            price: "R$ 920,00",
-            credit: "R$ 103,99",
+            price: "R$ 1.058,00",
+            credit: "R$ 117,50",
             images: buildImages("balcaotanque/Cinza", [
                 "balcaotanquecinza2.png",
                 "balcaotanquecinza4.png",
@@ -275,8 +275,8 @@ window.BND_MODULADOS = {
             category: "balcao",
             name: "Balcão Tanque",
             color: "Preto",
-            price: "R$ 920,00",
-            credit: "R$ 103,99",
+            price: "R$ 1.058,00",
+            credit: "R$ 117,50",
             images: buildImages("balcaotanque/Preto", [
                 "balcaotanquepreto2.png",
                 "balcaotanquepreto4.png",
@@ -335,18 +335,32 @@ window.BND_MODULADOS = {
         {
             id: "complementos",
             category: "complemento",
-            name: "Complementos",
+            name: "Complementos de balcão",
             price: "R$ 726,00",
             credit: "R$ 82,99",
             images: buildImages("complementos", [
                 "complementos2.png",
                 "complementos1.png",
+                "complementos7.png",
+                "complementos8.png",
+                "complementos5.png",
+                "complementos6.png",
+                "complementos3.png",
+                "complementos4.png",
+                "complementos9.png"
+            ])
+        },
+                {
+            id: "complementos",
+            category: "complemento",
+            name: "Complementos aéreos",
+            price: "R$ 726,00",
+            credit: "R$ 82,99",
+            images: buildImages("complementos", [
                 "complementos3.png",
                 "complementos4.png",
                 "complementos5.png",
                 "complementos6.png",
-                "complementos7.png",
-                "complementos8.png",
                 "complementos9.png"
             ])
         },
@@ -370,8 +384,8 @@ window.BND_MODULADOS = {
             category: "cozinha",
             name: "Cozinha Completa com Coluna",
             color: "Cinza Cobalto",
-            price: "R$ 5.690,00",
-            credit: "R$ 631,50",
+            price: "R$ 6.543,50,00",
+            credit: "R$ 726,40",
             images: buildImages("cozinhacolunas/Cinza", [
                 "cozinhacompletacolunacinza3.png",
                 "cozinhacompletacolunacinza2.png",
@@ -385,8 +399,8 @@ window.BND_MODULADOS = {
             category: "cozinha",
             name: "Cozinha Completa com Coluna",
             color: "Preto",
-            price: "R$ 5.690,00",
-            credit: "R$ 631,50",
+            price: "R$ 6.543,50,00",
+            credit: "R$ 726,40",
             images: buildImages("cozinhacolunas/Preto", [
                 "cozinhacompletacolunapreto3.png",
                 "cozinhacompletacolunapreto2.png",
@@ -400,6 +414,8 @@ window.BND_MODULADOS = {
             category: "cozinha",
             name: "Cozinha Completa Justa Posta",
             color: "Branco",
+            price: "R$ 5.690,00",
+            credit: "R$ 631,50",
             images: buildImages("cozinhajusta/Branco", [
                 "cozinhacompletajustaposta4.png",
                 "cozinhacompletajustaposta2.png",
@@ -415,6 +431,8 @@ window.BND_MODULADOS = {
             category: "cozinha",
             name: "Cozinha Completa Justa Posta",
             color: "Cinza Cobalto",
+            price: "R$ 6.543,50,00",
+            credit: "R$ 726,40",
             images: buildImages("cozinhajusta/Cinza", [
                 "cozinhacompletajustapostacinza3.png",
                 "cozinhacompletajustapostacinza2.png",
@@ -427,6 +445,8 @@ window.BND_MODULADOS = {
             category: "cozinha",
             name: "Cozinha Completa Justa Posta",
             color: "Preto",
+            price: "R$ 6.543,50,00",
+            credit: "R$ 726,40",
             images: buildImages("cozinhajusta/Preto", [
                 "cozinhacompletajustapostapreto3.png",
                 "cozinhacompletajustapostapreto2.png",
@@ -438,6 +458,7 @@ window.BND_MODULADOS = {
             id: "cozinhajustapostamodificada",
             category: "cozinha",
             name: "Cozinha Completa Justa Posta Modificada",
+            color: "Branco",
             price: "R$ 5.690,00",
             credit: "R$ 631,50",
             images: buildImages("cozinhajustapostamodificada", [
@@ -451,6 +472,44 @@ window.BND_MODULADOS = {
                 "cozinhacompletajustapostamodificada8.png",
                 "cozinhacompletajustapostamodificada9.png"
             ])
+        },
+        {
+            id: "cozinhajustapostamodificada",
+            category: "cozinha",
+            name: "Cozinha Completa Justa Posta Modificada",
+            color: "Cinza Cobalto",
+            price: "R$ 6.543,50,00",
+            credit: "R$ 726,40",
+            images: buildImages("cozinhajustapostamodificada", [
+                "cozinhacompletajustapostamodificada3.png",
+                "cozinhacompletajustapostamodificada2.png",
+                "cozinhacompletajustapostamodificada1.png",
+                "cozinhacompletajustapostamodificada4.png",
+                "cozinhacompletajustapostamodificada5.png",
+                "cozinhacompletajustapostamodificada6.png",
+                "cozinhacompletajustapostamodificada7.png",
+                "cozinhacompletajustapostamodificada8.png",
+                "cozinhacompletajustapostamodificada9.png"
+            ])
+        },
+        {
+                    id: "cozinhajustapostamodificada",
+            category: "cozinha",
+            name: "Cozinha Completa Justa Posta Modificada",
+            color: "Preto",
+            price: "R$ 6.543,50,00",
+            credit: "R$ 726,40",
+            images: buildImages("cozinhajustapostamodificada", [
+                "cozinhacompletajustapostamodificada3.png",
+                "cozinhacompletajustapostamodificada2.png",
+                "cozinhacompletajustapostamodificada1.png",
+                "cozinhacompletajustapostamodificada4.png",
+                "cozinhacompletajustapostamodificada5.png",
+                "cozinhacompletajustapostamodificada6.png",
+                "cozinhacompletajustapostamodificada7.png",
+                "cozinhacompletajustapostamodificada8.png",
+                "cozinhacompletajustapostamodificada9.png"
+            ]),
         },
         {
             id: "geladeiratorre",
@@ -688,6 +747,7 @@ window.BND_MODULADOS = {
             id: "roupeiro3correr",
             category: "roupeiro",
             name: "Roupeiro 3 Portas de Correr",
+            price: "R$ 5.000",
             images: buildImages("roupeiros/Roupeiro 3 portas de correr", [
                 "roupeiro3portasdecorrer1.png",
                 "roupeiro3portasdecorrer2.png",
@@ -700,6 +760,7 @@ window.BND_MODULADOS = {
             id: "roupeiro3giro",
             category: "roupeiro",
             name: "Roupeiro 3 Portas de Giro",
+            price: "R$ 4.300",
             images: buildImages("roupeiros/Roupeiro 3 portas de giro", [
                 "roupeiro3portasdegiro1.png",
                 "roupeiro3portasdegiro2.png",
@@ -712,6 +773,7 @@ window.BND_MODULADOS = {
             id: "roupeirog2correr",
             category: "roupeiro",
             name: "Roupeiro G 2 Portas de Correr",
+            price: "R$ 5.000",
             images: buildImages("roupeiros/Roupeiro G 2 porta de correr", [
                 "roupeirog2portadecorrer1.png",
                 "roupeirog2portadecorrer2.png",
@@ -725,6 +787,7 @@ window.BND_MODULADOS = {
             id: "roupeirog4giro",
             category: "roupeiro",
             name: "Roupeiro G 4 Portas de Giro",
+            price: "R$ 5.700",
             images: buildImages("roupeiros/Roupeiro G 4 portas de giro", [
                 "roupeirog4portasdegiro1.png",
                 "roupeirog4portasdegiro2.png",
@@ -738,6 +801,7 @@ window.BND_MODULADOS = {
             id: "roupeirop2correr",
             category: "roupeiro",
             name: "Roupeiro P 2 Portas de Correr",
+            price: "R$ 3.970",
             images: buildImages("roupeiros/Roupeiro P 2 portas de correr", [
                 "roupeirop2portasdecorrer1.png",
                 "roupeirop2portasdecorrer2.png",
@@ -750,6 +814,7 @@ window.BND_MODULADOS = {
             id: "roupeirop2giro",
             category: "roupeiro",
             name: "Roupeiro P 2 Portas de Giro",
+            price: "R$ 3.270",
             images: buildImages("roupeiros/Roupeiro P 2 portas de giro", [
                 "roupeirop2portasdegiro1.png",
                 "roupeirop2portasdegiro2.png",

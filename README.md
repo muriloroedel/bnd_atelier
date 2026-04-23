@@ -6,9 +6,9 @@ Este projeto foi desenvolvido para a marcenaria BND Atelier. Foi criada uma pág
 
 ### Screenshots
 <p align="center">
-  <img src="/scr/imagens/prtscr1.png" width="400" title="home">
-  <img src="/scr/imagens/prtscr1.png" width="400" title="ecommerce">
-  <img src="/scr/imagens/prtscr1.png" width="400" title="galeria">
+  <img src=".scr/imagens/prtscr1.png" width="400" title="home">
+  <img src=".scr/imagens/prtscr1.png" width="400" title="ecommerce">
+  <img src=".scr/imagens/prtscr1.png" width="400" title="galeria">
 </p>
 
 ### Tecnologias
