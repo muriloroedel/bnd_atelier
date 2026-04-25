@@ -757,10 +757,22 @@ body.menu-open{
 }
 
 .catalog-hero-grid{
-    grid-template-columns:1.1fr 0.9fr;
+    grid-template-columns: repeat(3, 1fr);
     gap:28px;
     align-items:start;
 }
+
+.catalog-3cols{
+    column-count: 3;
+    column-gap: 32px;
+}
+
+.catalog-3cols p,
+.catalog-3cols ul{
+    break-inside: avoid;
+    margin-bottom: 14px;
+}
+
 
 .catalog-kicker{
     display:inline-block;
@@ -2119,6 +2131,10 @@ input:checked + .slider:before{
         gap:8px;
     }
 
+    .catalog-3cols{
+        column-count: 2;
+    }
+
     .projects-stats-grid,
     .catalog-stats-grid,
     .gallery-masonry-grid,
@@ -2300,5 +2316,10 @@ input:checked + .slider:before{
         height: 54px;
         right: 18px;
         bottom: 18px;
+    }
+}
+@media (max-width: 480px){
+    .catalog-3cols{
+        column-count: 1;
     }
 }

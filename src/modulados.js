@@ -352,7 +352,7 @@
 
         lines.push("", `Link: ${url}`);
 
-        return `https://wa.me/5551992005743?text=${encodeURIComponent(lines.join("\n"))}`;
+        return `https://wa.me/5551980554853?text=${encodeURIComponent(lines.join("\n"))}`;
     }
 
     function updateResults() {

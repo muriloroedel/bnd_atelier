@@ -288,7 +288,7 @@ window.BND_MODULADOS = {
         {
             id: "banheiromodelo1",
             category: "banheiro",
-            name: "Banheiro Modelo 1",
+            name: "Armário Flow 3D",
             images: buildImages("banheiromodelos/modelo 1", [
                 "banheiromodelo12.png",
                 "banheiromodelo11.png",
@@ -299,7 +299,7 @@ window.BND_MODULADOS = {
         {
             id: "banheiromodelo2",
             category: "banheiro",
-            name: "Banheiro Modelo 2",
+            name: "Armário Core Smart",
             images: buildImages("banheiromodelos/modelo 2", [
                 "banheiromodelo23.png",
                 "banheiromodelo22.png",
@@ -311,7 +311,7 @@ window.BND_MODULADOS = {
         {
             id: "banheiromodelo3",
             category: "banheiro",
-            name: "Banheiro Modelo 3",
+            name: "Armário Open Line",
             images: buildImages("banheiromodelos/modelo 3", [
                 "banheiromodelo33.png",
                 "banheiromodelo32.png",
@@ -323,7 +323,7 @@ window.BND_MODULADOS = {
         {
             id: "banheiromodelo4",
             category: "banheiro",
-            name: "Banheiro Modelo 4",
+            name: "Armário Prime Duo",
             images: buildImages("banheiromodelos/modelo 4", [
                 "banheiromodelo42.png",
                 "banheiromodelo43.png",
@@ -584,7 +584,7 @@ window.BND_MODULADOS = {
         {
             id: "painelmodelo1",
             category: "painel",
-            name: "Painél Freijó com branco",
+            name: "Painél BND Linea",
             price: "R$ 2.090,00",
             images: buildImages("painelmodelos/Painel modelo 1", [
                 "painelmodelo13.png",
@@ -608,7 +608,7 @@ window.BND_MODULADOS = {
         {
             id: "painelmodelo3",
             category: "painel",
-            name: "Painél Freijó",
+            name: "Painél BND Cover",
             price: "R$ 2.640,00",
             images: buildImages("painelmodelos/Painel Modelo 3", [
                 "painelmodelo32.png",
@@ -620,7 +620,7 @@ window.BND_MODULADOS = {
         {
             id: "painelmodelo4",
             category: "painel",
-            name: "Painél com Nicho",
+            name: "Painél Smart Nicho",
             price: "R$ 2.390,00",
             images: buildImages("painelmodelos/Painel Modelo 4", [
                 "painelmodelo43.png",
@@ -632,7 +632,7 @@ window.BND_MODULADOS = {
         {
             id: "painelmodelo5",
             category: "painel",
-            name: "Painél com ripado",
+            name: "Painél Ripado Prime",
             price: "R$ 2.980,00",
             images: buildImages("painelmodelos/Painel Modelo 5", [
                 "painelmodelo52.png",
