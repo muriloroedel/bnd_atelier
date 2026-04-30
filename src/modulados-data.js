@@ -596,7 +596,7 @@ window.BND_MODULADOS = {
         {
             id: "painelmodelo2",
             category: "painel",
-            name: "Painél com tampa branca",
+            name: "Painél BND Cover",
             price: "R$ 2.490,00",
             images: buildImages("painelmodelos/Painel Modelo 2", [
                 "painelmodelo23.png",
@@ -608,7 +608,7 @@ window.BND_MODULADOS = {
         {
             id: "painelmodelo3",
             category: "painel",
-            name: "Painél BND Cover",
+            name: "Painél BND Wood Prime",
             price: "R$ 2.640,00",
             images: buildImages("painelmodelos/Painel Modelo 3", [
                 "painelmodelo32.png",
