@@ -367,7 +367,7 @@ window.BND_MODULADOS = {
         {
             id: "cozinhacolunas-branco",
             category: "cozinha",
-            name: "Cozinha Completa com Coluna",
+            name: "Cozinha Completa em linha",
             color: "Branco",
             price: "R$ 5.690,00",
             credit: "R$ 631,50",
@@ -382,7 +382,7 @@ window.BND_MODULADOS = {
         {
             id: "cozinhacolunas-cinza",
             category: "cozinha",
-            name: "Cozinha Completa com Coluna",
+            name: "Cozinha Completa em linha",
             color: "Cinza Cobalto",
             price: "R$ 6.543,50,00",
             credit: "R$ 726,40",
@@ -397,7 +397,7 @@ window.BND_MODULADOS = {
         {
             id: "cozinhacolunas-preto",
             category: "cozinha",
-            name: "Cozinha Completa com Coluna",
+            name: "Cozinha Completa em linha",
             color: "Preto",
             price: "R$ 6.543,50,00",
             credit: "R$ 726,40",

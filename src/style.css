@@ -796,6 +796,8 @@ body.menu-open{
     line-height:1.8;
     color:var(--text-light);
     margin-bottom:28px;
+    text-align: justify;
+
 }
 
 .catalog-shortcuts{
