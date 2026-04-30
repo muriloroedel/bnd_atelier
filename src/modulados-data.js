@@ -515,10 +515,37 @@ window.BND_MODULADOS = {
             id: "geladeiratorre",
             category: "cozinha",
             name: "Torre para Geladeira",
+            color: "Branco",
             images: buildImages("geladeiratorre", [
                 "geladeiratorre1.png",
                 "geladeiratorre2.png",
-                "geladeiratorre3.png"
+                "geladeiratorre3.png",
+                "geladeiratorre4.png"
+            ])
+        },
+                {
+            id: "geladeiratorre",
+            category: "cozinha",
+            name: "Torre para Geladeira",
+            color: "Cinza Cobalto",
+            images: buildImages("geladeiratorre", [
+                "geladeiratorrecinza1.png",
+                "geladeiratorrecinza2.png",
+                "geladeiratorrecinza3.png",
+                "geladeiratorrecinza4.png"
+            ])
+        },
+                {
+            id: "geladeiratorre",
+            category: "cozinha",
+            name: "Torre para Geladeira",
+            color: "Preto",
+            images: buildImages("geladeiratorre", [
+                "geladeiratorrepreto1",
+                "geladeiratorrepreto2",
+                "geladeiratorrepreto3",
+                "geladeiratorrepreto4",
+                "geladeiratorrepreto5"
             ])
         },
         {
