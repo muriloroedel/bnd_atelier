@@ -25,11 +25,11 @@ window.BND_MODULADOS = {
             price: "R$ 798,00",
             credit: "R$ 84,99",
             images: buildImages("aereocomexaustor/Branco", [
-                "aereocomexaustor1.png",
-                "aereocomexaustor2.png",
-                "aereocomexaustor3.png",
-                "aereocomexaustor4.png",
-                "aereocomexaustor5.png"
+                "aereocomexaustor1.webp",
+                "aereocomexaustor2.webp",
+                "aereocomexaustor3.webp",
+                "aereocomexaustor4.webp",
+                "aereocomexaustor5.webp"
             ])
         },
         {
