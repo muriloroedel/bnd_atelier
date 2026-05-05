@@ -40,11 +40,11 @@ window.BND_MODULADOS = {
             price: "R$ 917,90",
             credit: "R$ 101,90",
             images: buildImages("aereocomexaustor/Cinza", [
-                "aereocomexaustorcinza1.png",
-                "aereocomexaustorcinza2.png",
-                "aereocomexaustorcinza3.png",
-                "aereocomexaustorcinza4.png",
-                "aereocomexaustorcinza5.png"
+                "aereocomexaustorcinza1.webp",
+                "aereocomexaustorcinza2.webp",
+                "aereocomexaustorcinza3.webp",
+                "aereocomexaustorcinza4.webp",
+                "aereocomexaustorcinza5.webp"
             ])
         },
         {
@@ -55,11 +55,11 @@ window.BND_MODULADOS = {
             price: "R$ 917,90",
             credit: "R$ 101,90",
             images: buildImages("aereocomexaustor/Preto", [
-                "aereocomexaustorpreto4.png",
-                "aereocomexaustorpreto2.png",
-                "aereocomexaustorpreto3.png",
-                "aereocomexaustorpreto1.png",
-                "aereocomexaustorpreto5.png"
+                "aereocomexaustorpreto4.webp",
+                "aereocomexaustorpreto2.webp",
+                "aereocomexaustorpreto3.webp",
+                "aereocomexaustorpreto1.webp",
+                "aereocomexaustorpreto5.webp"
             ])
         },
         {
@@ -70,11 +70,11 @@ window.BND_MODULADOS = {
             price: "R$ 918,00",
             credit: "R$ 103,98",
             images: buildImages("aereocommicro/Branco", [
-                "aereocommicro2.png",
-                "aereocommicro1.png",
-                "aereocommicro3.png",
-                "aereocommicro4.png",
-                "aereocommicro5.png"
+                "aereocommicro2.webp",
+                "aereocommicro1.webp",
+                "aereocommicro3.webp",
+                "aereocommicro4.webp",
+                "aereocommicro5.webp"
             ])
         },
         {
@@ -85,10 +85,10 @@ window.BND_MODULADOS = {
             price: "R$ 1.055,17",
             credit: "R$ 117,20",
             images: buildImages("aereocommicro/Cinza", [
-                "aereocommicrocinza4.png",
-                "aereocommicrocinza1.png",
-                "aereocommicrocinza3.png",
-                "aereocommicrocinza2.png"
+                "aereocommicrocinza4.webp",
+                "aereocommicrocinza1.webp",
+                "aereocommicrocinza3.webp",
+                "aereocommicrocinza2.webp"
             ])
         },
         {
@@ -99,10 +99,10 @@ window.BND_MODULADOS = {
             price: "R$ 1.055,17",
             credit: "R$ 117,20",
             images: buildImages("aereocommicro/Preto", [
-                "aereocommicropreto4.png",
-                "aereocommicropreto1.png",
-                "aereocommicropreto3.png",
-                "aereocommicropreto2.png"
+                "aereocommicropreto4.webp",
+                "aereocommicropreto1.webp",
+                "aereocommicropreto3.webp",
+                "aereocommicropreto2.webp"
             ])
         },
         {
@@ -113,12 +113,12 @@ window.BND_MODULADOS = {
             price: "R$ 870,00",
             credit: "R$ 102,99",
             images: buildImages("aereocomnicho/Branco", [
-                "aereocomnicho3.png",
-                "aereocomnicho2.png",
-                "aereocomnicho1.png",
-                "aereocomnicho4.png",
-                "aereocomnicho5.png",
-                "aereocomnicho6.png"
+                "aereocomnicho3.webp",
+                "aereocomnicho2.webp",
+                "aereocomnicho1.webp",
+                "aereocomnicho4.webp",
+                "aereocomnicho5.webp",
+                "aereocomnicho6.webp"
             ])
         },
         {
@@ -129,11 +129,11 @@ window.BND_MODULADOS = {
             price: "R$ 1.000,00",
             credit: "R$ 110,00",
             images: buildImages("aereocomnicho/Cinza", [
-                "aereocomnichocinza4.png",
-                "aereocomnichocinza2.png",
-                "aereocomnichocinza3.png",
-                "aereocomnichocinza1.png",
-                "aereocomnichocinza5.png"
+                "aereocomnichocinza4.webp",
+                "aereocomnichocinza2.webp",
+                "aereocomnichocinza3.webp",
+                "aereocomnichocinza1.webp",
+                "aereocomnichocinza5.webp"
             ])
         },
         {
@@ -144,11 +144,11 @@ window.BND_MODULADOS = {
             price: "R$ 1.000,00",
             credit: "R$ 110,00",
             images: buildImages("aereocomnicho/Preto", [
-                "aereocomnichopreto4.png",
-                "aereocomnichopreto2.png",
-                "aereocomnichopreto3.png",
-                "aereocomnichopreto1.png",
-                "aereocomnichopreto5.png"
+                "aereocomnichopreto4.webp",
+                "aereocomnichopreto2.webp",
+                "aereocomnichopreto3.webp",
+                "aereocomnichopreto1.webp",
+                "aereocomnichopreto5.webp"
             ])
         },
         {
@@ -159,12 +159,12 @@ window.BND_MODULADOS = {
             price: "R$ 1.110,00",
             credit: "R$ 124,99",
             images: buildImages("balcaocomcooktop/Branco", [
-                "balcaocomcooktop2.png",
-                "balcaocomcooktop1.png",
-                "balcaocomcooktop3.png",
-                "balcaocomcooktop4.png",
-                "balcaocomcooktop5.png",
-                "balcaocomcooktop6.png"
+                "balcaocomcooktop2.webp",
+                "balcaocomcooktop1.webp",
+                "balcaocomcooktop3.webp",
+                "balcaocomcooktop4.webp",
+                "balcaocomcooktop5.webp",
+                "balcaocomcooktop6.webp"
             ])
         },
         {
@@ -175,10 +175,10 @@ window.BND_MODULADOS = {
             price: "R$ 1.276.50",
             credit: "R$ 141,70",
             images: buildImages("balcaocomcooktop/Cinza", [
-                "balcaocomcooktopcinza4.png",
-                "balcaocomcooktopcinza2.png",
-                "balcaocomcooktopcinza3.png",
-                "balcaocomcooktopcinza1.png"
+                "balcaocomcooktopcinza4.webp",
+                "balcaocomcooktopcinza2.webp",
+                "balcaocomcooktopcinza3.webp",
+                "balcaocomcooktopcinza1.webp"
             ])
         },
         {
@@ -189,11 +189,11 @@ window.BND_MODULADOS = {
             price: "R$ 1.276.50",
             credit: "R$ 141,70",
             images: buildImages("balcaocomcooktop/Preto", [
-                "balcaocomcooktoppreto4.png",
-                "balcaocomcooktoppreto2.png",
-                "balcaocomcooktoppreto3.png",
-                "balcaocomcooktoppreto1.png",
-                "balcaocomcooktoppreto5.png"
+                "balcaocomcooktoppreto4.webp",
+                "balcaocomcooktoppreto2.webp",
+                "balcaocomcooktoppreto3.webp",
+                "balcaocomcooktoppreto1.webp",
+                "balcaocomcooktoppreto5.webp"
             ])
         },
         {
@@ -204,11 +204,11 @@ window.BND_MODULADOS = {
             price: "R$ 1.690,00",
             credit: "R$ 189,00",
             images: buildImages("balcaopia/Branco", [
-                "balcaopia2.png",
-                "balcaopia1.png",
-                "balcaopia3.png",
-                "balcaopia4.png",
-                "balcaopia5.png"
+                "balcaopia2.webp",
+                "balcaopia1.webp",
+                "balcaopia3.webp",
+                "balcaopia4.webp",
+                "balcaopia5.webp"
             ])
         },
         {
@@ -219,11 +219,11 @@ window.BND_MODULADOS = {
             price: "R$ 1.943,50",
             credit: "R$ 215,80",
             images: buildImages("balcaopia/Cinza", [
-                "balcaopiacinza4.png",
-                "balcaopiacinza2.png",
-                "balcaopiacinza3.png",
-                "balcaopiacinza1.png",
-                "balcaopiacinza5.png"
+                "balcaopiacinza4.webp",
+                "balcaopiacinza2.webp",
+                "balcaopiacinza3.webp",
+                "balcaopiacinza1.webp",
+                "balcaopiacinza5.webp"
             ])
         },
         {
@@ -234,11 +234,11 @@ window.BND_MODULADOS = {
             price: "R$ 1.943,50",
             credit: "R$ 215,80",
             images: buildImages("balcaopia/Preto", [
-                "balcaopiapreto4.png",
-                "balcaopiapreto2.png",
-                "balcaopiapreto3.png",
-                "balcaopiapreto1.png",
-                "balcaopiapreto5.png"
+                "balcaopiapreto4.webp",
+                "balcaopiapreto2.webp",
+                "balcaopiapreto3.webp",
+                "balcaopiapreto1.webp",
+                "balcaopiapreto5.webp"
             ])
         },
         {
@@ -249,11 +249,11 @@ window.BND_MODULADOS = {
             price: "R$ 920,00",
             credit: "R$ 103,99",
             images: buildImages("balcaotanque/Branco", [
-                "balcaotanque2.png",
-                "balcaotanque1.png",
-                "balcaotanque3.png",
-                "balcaotanque4.png",
-                "balcaotanque5.png"
+                "balcaotanque2.webp",
+                "balcaotanque1.webp",
+                "balcaotanque3.webp",
+                "balcaotanque4.webp",
+                "balcaotanque5.webp"
             ])
         },
         {
@@ -264,10 +264,10 @@ window.BND_MODULADOS = {
             price: "R$ 1.058,00",
             credit: "R$ 117,50",
             images: buildImages("balcaotanque/Cinza", [
-                "balcaotanquecinza2.png",
-                "balcaotanquecinza4.png",
-                "balcaotanquecinza3.png",
-                "balcaotanquecinza1.png"
+                "balcaotanquecinza2.webp",
+                "balcaotanquecinza4.webp",
+                "balcaotanquecinza3.webp",
+                "balcaotanquecinza1.webp"
             ])
         },
         {
@@ -278,11 +278,11 @@ window.BND_MODULADOS = {
             price: "R$ 1.058,00",
             credit: "R$ 117,50",
             images: buildImages("balcaotanque/Preto", [
-                "balcaotanquepreto2.png",
-                "balcaotanquepreto4.png",
-                "balcaotanquepreto3.png",
-                "balcaotanquepreto1.png",
-                "balcaotanquepreto5.png"
+                "balcaotanquepreto2.webp",
+                "balcaotanquepreto4.webp",
+                "balcaotanquepreto3.webp",
+                "balcaotanquepreto1.webp",
+                "balcaotanquepreto5.webp"
             ])
         },
         {
@@ -290,10 +290,10 @@ window.BND_MODULADOS = {
             category: "banheiro",
             name: "Armário Flow 3D",
             images: buildImages("banheiromodelos/modelo 1", [
-                "banheiromodelo12.png",
-                "banheiromodelo11.png",
-                "banheiromodelo13.png",
-                "banheiromodelo14.png"
+                "banheiromodelo12.webp",
+                "banheiromodelo11.webp",
+                "banheiromodelo13.webp",
+                "banheiromodelo14.webp"
             ])
         },
         {
@@ -301,11 +301,11 @@ window.BND_MODULADOS = {
             category: "banheiro",
             name: "Armário Core Smart",
             images: buildImages("banheiromodelos/modelo 2", [
-                "banheiromodelo23.png",
-                "banheiromodelo22.png",
-                "banheiromodelo24.png",
-                "banheiromodelo21.png",
-                "banheiromodelo25.png"
+                "banheiromodelo23.webp",
+                "banheiromodelo22.webp",
+                "banheiromodelo24.webp",
+                "banheiromodelo21.webp",
+                "banheiromodelo25.webp"
             ])
         },
         {
@@ -313,11 +313,11 @@ window.BND_MODULADOS = {
             category: "banheiro",
             name: "Armário Open Line",
             images: buildImages("banheiromodelos/modelo 3", [
-                "banheiromodelo33.png",
-                "banheiromodelo32.png",
-                "banheiromodelo34.png",
-                "banheiromodelo31.png",
-                "banheiromodelo35.png"
+                "banheiromodelo33.webp",
+                "banheiromodelo32.webp",
+                "banheiromodelo34.webp",
+                "banheiromodelo31.webp",
+                "banheiromodelo35.webp"
             ])
         },
         {
@@ -325,11 +325,11 @@ window.BND_MODULADOS = {
             category: "banheiro",
             name: "Armário Prime Duo",
             images: buildImages("banheiromodelos/modelo 4", [
-                "banheiromodelo42.png",
-                "banheiromodelo43.png",
-                "banheiromodelo44.png",
-                "banheiromodelo41.png",
-                "banheiromodelo45.png"
+                "banheiromodelo42.webp",
+                "banheiromodelo43.webp",
+                "banheiromodelo44.webp",
+                "banheiromodelo41.webp",
+                "banheiromodelo45.webp"
             ])
         },
         {
@@ -339,15 +339,15 @@ window.BND_MODULADOS = {
             price: "R$ 726,00",
             credit: "R$ 82,99",
             images: buildImages("complementos", [
-                "complementos2.png",
-                "complementos1.png",
-                "complementos7.png",
-                "complementos8.png",
-                "complementos5.png",
-                "complementos6.png",
-                "complementos3.png",
-                "complementos4.png",
-                "complementos9.png"
+                "complementos2.webp",
+                "complementos1.webp",
+                "complementos7.webp",
+                "complementos8.webp",
+                "complementos5.webp",
+                "complementos6.webp",
+                "complementos3.webp",
+                "complementos4.webp",
+                "complementos9.webp"
             ])
         },
                 {
@@ -357,11 +357,11 @@ window.BND_MODULADOS = {
             price: "R$ 726,00",
             credit: "R$ 82,99",
             images: buildImages("complementos", [
-                "complementos3.png",
-                "complementos4.png",
-                "complementos5.png",
-                "complementos6.png",
-                "complementos9.png"
+                "complementos3.webp",
+                "complementos4.webp",
+                "complementos5.webp",
+                "complementos6.webp",
+                "complementos9.webp"
             ])
         },
         {
@@ -372,11 +372,11 @@ window.BND_MODULADOS = {
             price: "R$ 5.690,00",
             credit: "R$ 631,50",
             images: buildImages("cozinhacolunas/Branco", [
-                "cozinhacompletacoluna4.png",
-                "cozinhacompletacoluna2.png",
-                "cozinhacompletacoluna3.png",
-                "cozinhacompletacoluna111.png",
-                "cozinhacompletacoluna5.png"
+                "cozinhacompletacoluna4.webp",
+                "cozinhacompletacoluna2.webp",
+                "cozinhacompletacoluna3.webp",
+                "cozinhacompletacoluna111.webp",
+                "cozinhacompletacoluna5.webp"
             ])
         },
         {
@@ -387,11 +387,11 @@ window.BND_MODULADOS = {
             price: "R$ 6.543,50,00",
             credit: "R$ 726,40",
             images: buildImages("cozinhacolunas/Cinza", [
-                "cozinhacompletacolunacinza3.png",
-                "cozinhacompletacolunacinza2.png",
-                "cozinhacompletacolunacinza1.png",
-                "cozinhacompletacolunacinza4.png",
-                "cozinhacompletacolunacinza5.png"
+                "cozinhacompletacolunacinza3.webp",
+                "cozinhacompletacolunacinza2.webp",
+                "cozinhacompletacolunacinza1.webp",
+                "cozinhacompletacolunacinza4.webp",
+                "cozinhacompletacolunacinza5.webp"
             ])
         },
         {
@@ -402,11 +402,11 @@ window.BND_MODULADOS = {
             price: "R$ 6.543,50,00",
             credit: "R$ 726,40",
             images: buildImages("cozinhacolunas/Preto", [
-                "cozinhacompletacolunapreto3.png",
-                "cozinhacompletacolunapreto2.png",
-                "cozinhacompletacolunapreto1.png",
-                "cozinhacompletacolunapreto4.png",
-                "cozinhacompletacolunapreto5.png"
+                "cozinhacompletacolunapreto3.webp",
+                "cozinhacompletacolunapreto2.webp",
+                "cozinhacompletacolunapreto1.webp",
+                "cozinhacompletacolunapreto4.webp",
+                "cozinhacompletacolunapreto5.webp"
             ])
         },
         {
@@ -417,13 +417,13 @@ window.BND_MODULADOS = {
             price: "R$ 5.690,00",
             credit: "R$ 631,50",
             images: buildImages("cozinhajusta/Branco", [
-                "cozinhacompletajustaposta4.png",
-                "cozinhacompletajustaposta2.png",
-                "cozinhacompletajustaposta3.png",
-                "cozinhacompletajustaposta1.png",
-                "cozinhacompletajustaposta5.png",
-                "cozinhacompletajustaposta6.png",
-                "cozinhacompletajustaposta7.png"
+                "cozinhacompletajustaposta4.webp",
+                "cozinhacompletajustaposta2.webp",
+                "cozinhacompletajustaposta3.webp",
+                "cozinhacompletajustaposta1.webp",
+                "cozinhacompletajustaposta5.webp",
+                "cozinhacompletajustaposta6.webp",
+                "cozinhacompletajustaposta7.webp"
             ])
         },
         {
@@ -434,10 +434,10 @@ window.BND_MODULADOS = {
             price: "R$ 6.543,50,00",
             credit: "R$ 726,40",
             images: buildImages("cozinhajusta/Cinza", [
-                "cozinhacompletajustapostacinza3.png",
-                "cozinhacompletajustapostacinza2.png",
-                "cozinhacompletajustapostacinza1.png",
-                "cozinhacompletajustapostacinza4.png"
+                "cozinhacompletajustapostacinza3.webp",
+                "cozinhacompletajustapostacinza2.webp",
+                "cozinhacompletajustapostacinza1.webp",
+                "cozinhacompletajustapostacinza4.webp"
             ])
         },
         {
@@ -448,10 +448,10 @@ window.BND_MODULADOS = {
             price: "R$ 6.543,50,00",
             credit: "R$ 726,40",
             images: buildImages("cozinhajusta/Preto", [
-                "cozinhacompletajustapostapreto3.png",
-                "cozinhacompletajustapostapreto2.png",
-                "cozinhacompletajustapostapreto1.png",
-                "cozinhacompletajustapostapreto4.png"
+                "cozinhacompletajustapostapreto3.webp",
+                "cozinhacompletajustapostapreto2.webp",
+                "cozinhacompletajustapostapreto1.webp",
+                "cozinhacompletajustapostapreto4.webp"
             ])
         },
         {
@@ -462,15 +462,15 @@ window.BND_MODULADOS = {
             price: "R$ 5.690,00",
             credit: "R$ 631,50",
             images: buildImages("cozinhajustapostamodificada", [
-                "cozinhacompletajustapostamodificada3.png",
-                "cozinhacompletajustapostamodificada2.png",
-                "cozinhacompletajustapostamodificada1.png",
-                "cozinhacompletajustapostamodificada4.png",
-                "cozinhacompletajustapostamodificada5.png",
-                "cozinhacompletajustapostamodificada6.png",
-                "cozinhacompletajustapostamodificada7.png",
-                "cozinhacompletajustapostamodificada8.png",
-                "cozinhacompletajustapostamodificada9.png"
+                "cozinhacompletajustapostamodificada3.webp",
+                "cozinhacompletajustapostamodificada2.webp",
+                "cozinhacompletajustapostamodificada1.webp",
+                "cozinhacompletajustapostamodificada4.webp",
+                "cozinhacompletajustapostamodificada5.webp",
+                "cozinhacompletajustapostamodificada6.webp",
+                "cozinhacompletajustapostamodificada7.webp",
+                "cozinhacompletajustapostamodificada8.webp",
+                "cozinhacompletajustapostamodificada9.webp"
             ])
         },
         {
@@ -481,15 +481,15 @@ window.BND_MODULADOS = {
             price: "R$ 6.543,50,00",
             credit: "R$ 726,40",
             images: buildImages("cozinhajustapostamodificada", [
-                "cozinhacompletajustapostamodificada3.png",
-                "cozinhacompletajustapostamodificada2.png",
-                "cozinhacompletajustapostamodificada1.png",
-                "cozinhacompletajustapostamodificada4.png",
-                "cozinhacompletajustapostamodificada5.png",
-                "cozinhacompletajustapostamodificada6.png",
-                "cozinhacompletajustapostamodificada7.png",
-                "cozinhacompletajustapostamodificada8.png",
-                "cozinhacompletajustapostamodificada9.png"
+                "cozinhacompletajustapostamodificada3.webp",
+                "cozinhacompletajustapostamodificada2.webp",
+                "cozinhacompletajustapostamodificada1.webp",
+                "cozinhacompletajustapostamodificada4.webp",
+                "cozinhacompletajustapostamodificada5.webp",
+                "cozinhacompletajustapostamodificada6.webp",
+                "cozinhacompletajustapostamodificada7.webp",
+                "cozinhacompletajustapostamodificada8.webp",
+                "cozinhacompletajustapostamodificada9.webp"
             ])
         },
         {
@@ -500,15 +500,15 @@ window.BND_MODULADOS = {
             price: "R$ 6.543,50,00",
             credit: "R$ 726,40",
             images: buildImages("cozinhajustapostamodificada", [
-                "cozinhacompletajustapostamodificada3.png",
-                "cozinhacompletajustapostamodificada2.png",
-                "cozinhacompletajustapostamodificada1.png",
-                "cozinhacompletajustapostamodificada4.png",
-                "cozinhacompletajustapostamodificada5.png",
-                "cozinhacompletajustapostamodificada6.png",
-                "cozinhacompletajustapostamodificada7.png",
-                "cozinhacompletajustapostamodificada8.png",
-                "cozinhacompletajustapostamodificada9.png"
+                "cozinhacompletajustapostamodificada3.webp",
+                "cozinhacompletajustapostamodificada2.webp",
+                "cozinhacompletajustapostamodificada1.webp",
+                "cozinhacompletajustapostamodificada4.webp",
+                "cozinhacompletajustapostamodificada5.webp",
+                "cozinhacompletajustapostamodificada6.webp",
+                "cozinhacompletajustapostamodificada7.webp",
+                "cozinhacompletajustapostamodificada8.webp",
+                "cozinhacompletajustapostamodificada9.webp"
             ]),
         },
         {
@@ -516,11 +516,11 @@ window.BND_MODULADOS = {
             category: "cozinha",
             name: "Torre para Geladeira",
             color: "Branco",
-            images: buildImages("geladeiratorre", [
-                "geladeiratorre1.png",
-                "geladeiratorre2.png",
-                "geladeiratorre3.png",
-                "geladeiratorre4.png"
+            images: buildImages("geladeiratorre/Branco", [
+                "geladeiratorre1.webp",
+                "geladeiratorre2.webp",
+                "geladeiratorre3.webp",
+                "geladeiratorre4.webp"
             ])
         },
                 {
@@ -528,11 +528,11 @@ window.BND_MODULADOS = {
             category: "cozinha",
             name: "Torre para Geladeira",
             color: "Cinza Cobalto",
-            images: buildImages("geladeiratorre", [
-                "geladeiratorrecinza1.png",
-                "geladeiratorrecinza2.png",
-                "geladeiratorrecinza3.png",
-                "geladeiratorrecinza4.png"
+            images: buildImages("geladeiratorre/Cinza", [
+                "geladeiratorrecinza1.webp",
+                "geladeiratorrecinza2.webp",
+                "geladeiratorrecinza3.webp",
+                "geladeiratorrecinza4.webp"
             ])
         },
                 {
@@ -540,12 +540,12 @@ window.BND_MODULADOS = {
             category: "cozinha",
             name: "Torre para Geladeira",
             color: "Preto",
-            images: buildImages("geladeiratorre", [
-                "geladeiratorrepreto1",
-                "geladeiratorrepreto2",
-                "geladeiratorrepreto3",
-                "geladeiratorrepreto4",
-                "geladeiratorrepreto5"
+            images: buildImages("geladeiratorre/Preto", [
+                "geladeiratorrepreto1.webp",
+                "geladeiratorrepreto2.webp",
+                "geladeiratorrepreto3.webp",
+                "geladeiratorrepreto4.webp",
+                "geladeiratorrepreto5.webp"
             ])
         },
         {
@@ -555,13 +555,13 @@ window.BND_MODULADOS = {
             price: "",
             color: "Freijó e Branco",
             images: buildImages("painelerack", [
-                "painelerack2.png", 
-                "painelerack1.png", 
-                "painelerack3.png",
-                "painelerack4.png",
-                "painelerack3.3.png",
-                "painelerack5.5.png", 
-                "painelerack5.png",])
+                "painelerack2.webp", 
+                "painelerack1.webp", 
+                "painelerack3.webp",
+                "painelerack4.webp",
+                "painelerack3.3.webp",
+                "painelerack5.5.webp", 
+                "painelerack5.webp",])
         },
         {
             id: "painelerack-2",
@@ -570,13 +570,13 @@ window.BND_MODULADOS = {
             price: "",
             color: "Freijó",
             images: buildImages("painelerack", [
-                "painelerack6.png", 
-                "painelerack10.png",
-                "painelerack7.png",
-                "painelerack9.png",
-                "painelerack11.png",
-                "painelerack12.png", 
-                "painelerack8.png"])
+                "painelerack6.webp", 
+                "painelerack10.webp",
+                "painelerack7.webp",
+                "painelerack9.webp",
+                "painelerack11.webp",
+                "painelerack12.webp", 
+                "painelerack8.webp"])
         },
         {
             id: "painelerack-3",
@@ -585,13 +585,13 @@ window.BND_MODULADOS = {
             price: "",
             color: "Freijó e branco (led)",
             images: buildImages("painelerack", [
-                "painelerack22.png", 
-                "painelerack23.png",
-                "painelerack21.png",
-                "painelerack20.png",
-                "painelerack17.png",
-                "painelerack19.png", 
-                "painelerack18.png"])
+                "painelerack22.webp", 
+                "painelerack23.webp",
+                "painelerack21.webp",
+                "painelerack20.webp",
+                "painelerack17.webp",
+                "painelerack19.webp", 
+                "painelerack18.webp"])
         },
         {
             id: "painelerack-4",
@@ -600,13 +600,13 @@ window.BND_MODULADOS = {
             price: "",
             color: "Branco",
             images: buildImages("painelerack", [
-                "painelerack110.png", 
-                "painelerack100.png", 
-                "painelerack120.png",
-                "painelerack130.png",
-                "painelerack233.png",
-                "painelerack24.png",
-                "painelerack28.png",,])
+                "painelerack110.webp", 
+                "painelerack100.webp", 
+                "painelerack120.webp",
+                "painelerack130.webp",
+                "painelerack233.webp",
+                "painelerack24.webp",
+                "painelerack28.webp",,])
         },
         {
             id: "painelmodelo1",
@@ -614,10 +614,10 @@ window.BND_MODULADOS = {
             name: "Painél BND Linea",
             price: "R$ 2.090,00",
             images: buildImages("painelmodelos/Painel modelo 1", [
-                "painelmodelo13.png",
-                "painelmodelo12.png",
-                "painelmodelo11.png",
-                "painelmodelo14.png"
+                "painelmodelo13.webp",
+                "painelmodelo12.webp",
+                "painelmodelo11.webp",
+                "painelmodelo14.webp"
             ])
         },
         {
@@ -626,10 +626,10 @@ window.BND_MODULADOS = {
             name: "Painél BND Cover",
             price: "R$ 2.490,00",
             images: buildImages("painelmodelos/Painel Modelo 2", [
-                "painelmodelo23.png",
-                "painelmodelo22.png",
-                "painelmodelo21.png",
-                "painelmodelo24.png"
+                "painelmodelo23.webp",
+                "painelmodelo22.webp",
+                "painelmodelo21.webp",
+                "painelmodelo24.webp"
             ])
         },
         {
@@ -638,10 +638,10 @@ window.BND_MODULADOS = {
             name: "Painél BND Wood Prime",
             price: "R$ 2.640,00",
             images: buildImages("painelmodelos/Painel Modelo 3", [
-                "painelmodelo32.png",
-                "painelmodelo31.png",
-                "painelmodelo33.png",
-                "painelmodelo34.png"
+                "painelmodelo32.webp",
+                "painelmodelo31.webp",
+                "painelmodelo33.webp",
+                "painelmodelo34.webp"
             ])
         },
         {
@@ -650,10 +650,10 @@ window.BND_MODULADOS = {
             name: "Painél Smart Nicho",
             price: "R$ 2.390,00",
             images: buildImages("painelmodelos/Painel Modelo 4", [
-                "painelmodelo43.png",
-                "painelmodelo42.png",
-                "painelmodelo41.png",
-                "painelmodelo44.png"
+                "painelmodelo43.webp",
+                "painelmodelo42.webp",
+                "painelmodelo41.webp",
+                "painelmodelo44.webp"
             ])
         },
         {
@@ -662,10 +662,10 @@ window.BND_MODULADOS = {
             name: "Painél Ripado Prime",
             price: "R$ 2.980,00",
             images: buildImages("painelmodelos/Painel Modelo 5", [
-                "painelmodelo52.png",
-                "painelmodelo53.png",
-                "painelmodelo54.png",
-                "painelmodelo51.png"
+                "painelmodelo52.webp",
+                "painelmodelo53.webp",
+                "painelmodelo54.webp",
+                "painelmodelo51.webp"
             ])
         },
         {
@@ -675,14 +675,14 @@ window.BND_MODULADOS = {
             price: "R$ 2.105,00",
             credit: "R$ 231,50",
             images: buildImages("rack/Rack 1", [
-                "rack15.png",
-                "rack12.png",
-                "rack13.png",
-                "rack14.png",
-                "rack11.png",
-                "rack16.png",
-                "rack17.png",
-                "rack18.png"
+                "rack15.webp",
+                "rack12.webp",
+                "rack13.webp",
+                "rack14.webp",
+                "rack11.webp",
+                "rack16.webp",
+                "rack17.webp",
+                "rack18.webp"
             ])
         },
         {
@@ -691,14 +691,14 @@ window.BND_MODULADOS = {
             name: "Rack branco",
             price: "R$ 1.830,00",
             images: buildImages("rack/Rack 2", [
-                "rack25.png",
-                "rack22.png",
-                "rack23.png",
-                "rack24.png",
-                "rack25.png",
-                "rack26.png",
-                "rack27.png",
-                "rack28.png"
+                "rack25.webp",
+                "rack22.webp",
+                "rack23.webp",
+                "rack24.webp",
+                "rack25.webp",
+                "rack26.webp",
+                "rack27.webp",
+                "rack28.webp"
             ])
         },
         {
@@ -708,14 +708,14 @@ window.BND_MODULADOS = {
             price: "R$ 2.105,00",
             credit: "R$ 231,50",
             images: buildImages("rack/Rack 3", [
-                "rack35.png",
-                "rack32.png",
-                "rack33.png",
-                "rack34.png",
-                "rack31.png",
-                "rack36.png",
-                "rack37.png",
-                "rack38.png"
+                "rack35.webp",
+                "rack32.webp",
+                "rack33.webp",
+                "rack34.webp",
+                "rack31.webp",
+                "rack36.webp",
+                "rack37.webp",
+                "rack38.webp"
             ])
         },
         {
@@ -725,15 +725,15 @@ window.BND_MODULADOS = {
             price: "R$ 2.105,00",
             credit: "R$ 231,50",
             images: buildImages("rack/Rack 4", [
-                "rack45.png",
-                "rack42.png",
-                "rack43.png",
-                "rack44.png",
-                "rack41.png",
-                "rack46.png",
-                "rack47.png",
-                "rack48.png",
-                "rack49.png"
+                "rack45.webp",
+                "rack42.webp",
+                "rack43.webp",
+                "rack44.webp",
+                "rack41.webp",
+                "rack46.webp",
+                "rack47.webp",
+                "rack48.webp",
+                "rack49.webp"
             ])
         },
         {
@@ -743,14 +743,14 @@ window.BND_MODULADOS = {
             price: "R$ 2.105,00",
             credit: "R$ 231,50",
             images: buildImages("rack/Rack 5", [
-                "rack55.png",
-                "rack52.png",
-                "rack53.png",
-                "rack54.png",
-                "rack51.png",
-                "rack56.png",
-                "rack57.png",
-                "rack58.png"
+                "rack55.webp",
+                "rack52.webp",
+                "rack53.webp",
+                "rack54.webp",
+                "rack51.webp",
+                "rack56.webp",
+                "rack57.webp",
+                "rack58.webp"
             ])
         },
         {
@@ -760,14 +760,14 @@ window.BND_MODULADOS = {
             price: "R$ 2.105,00",
             credit: "R$ 231,50",
             images: buildImages("rack/Rack 6", [
-                "rack64.png",
-                "rack62.png",
-                "rack63.png",
-                "rack61.png",
-                "rack65.png",
-                "rack66.png",
-                "rack67.png",
-                "rack68.png"
+                "rack64.webp",
+                "rack62.webp",
+                "rack63.webp",
+                "rack61.webp",
+                "rack65.webp",
+                "rack66.webp",
+                "rack67.webp",
+                "rack68.webp"
             ])
         },
         {
@@ -776,11 +776,11 @@ window.BND_MODULADOS = {
             name: "Roupeiro 3 Portas de Correr",
             price: "R$ 5.000",
             images: buildImages("roupeiros/Roupeiro 3 portas de correr", [
-                "roupeiro3portasdecorrer1.png",
-                "roupeiro3portasdecorrer2.png",
-                "roupeiro3portasdecorrer3.png",
-                "roupeiro3portasdecorrer4.png",
-                "roupeiro3portasdecorrer5.png"
+                "roupeiro3portasdecorrer1.webp",
+                "roupeiro3portasdecorrer2.webp",
+                "roupeiro3portasdecorrer3.webp",
+                "roupeiro3portasdecorrer4.webp",
+                "roupeiro3portasdecorrer5.webp"
             ])
         },
         {
@@ -789,11 +789,11 @@ window.BND_MODULADOS = {
             name: "Roupeiro 3 Portas de Giro",
             price: "R$ 4.300",
             images: buildImages("roupeiros/Roupeiro 3 portas de giro", [
-                "roupeiro3portasdegiro1.png",
-                "roupeiro3portasdegiro2.png",
-                "roupeiro3portasdegiro3.png",
-                "roupeiro3portasdegiro4.png",
-                "roupeiro3portasdegiro5.png"
+                "roupeiro3portasdegiro1.webp",
+                "roupeiro3portasdegiro2.webp",
+                "roupeiro3portasdegiro3.webp",
+                "roupeiro3portasdegiro4.webp",
+                "roupeiro3portasdegiro5.webp"
             ])
         },
         {
@@ -802,12 +802,12 @@ window.BND_MODULADOS = {
             name: "Roupeiro G 2 Portas de Correr",
             price: "R$ 5.000",
             images: buildImages("roupeiros/Roupeiro G 2 porta de correr", [
-                "roupeirog2portadecorrer1.png",
-                "roupeirog2portadecorrer2.png",
-                "roupeirog2portadecorrer3.png",
-                "roupeirog2portadecorrer4.png",
-                "roupeirog2portadecorrer5.png",
-                "roupeirog2portadecorrer6.png"
+                "roupeirog2portadecorrer1.webp",
+                "roupeirog2portadecorrer2.webp",
+                "roupeirog2portadecorrer3.webp",
+                "roupeirog2portadecorrer4.webp",
+                "roupeirog2portadecorrer5.webp",
+                "roupeirog2portadecorrer6.webp"
             ])
         },
         {
@@ -816,12 +816,12 @@ window.BND_MODULADOS = {
             name: "Roupeiro G 4 Portas de Giro",
             price: "R$ 5.700",
             images: buildImages("roupeiros/Roupeiro G 4 portas de giro", [
-                "roupeirog4portasdegiro1.png",
-                "roupeirog4portasdegiro2.png",
-                "roupeirog4portasdegiro3.png",
-                "roupeirog4portasdegiro4.png",
-                "roupeirog4portasdegiro5.png",
-                "roupeirog4portasdegiro6.png"
+                "roupeirog4portasdegiro1.webp",
+                "roupeirog4portasdegiro2.webp",
+                "roupeirog4portasdegiro3.webp",
+                "roupeirog4portasdegiro4.webp",
+                "roupeirog4portasdegiro5.webp",
+                "roupeirog4portasdegiro6.webp"
             ])
         },
         {
@@ -830,11 +830,11 @@ window.BND_MODULADOS = {
             name: "Roupeiro P 2 Portas de Correr",
             price: "R$ 3.970",
             images: buildImages("roupeiros/Roupeiro P 2 portas de correr", [
-                "roupeirop2portasdecorrer1.png",
-                "roupeirop2portasdecorrer2.png",
-                "roupeirop2portasdecorrer3.png",
-                "roupeirop2portasdecorrer4.png",
-                "roupeirop2portasdecorrer5.png"
+                "roupeirop2portasdecorrer1.webp",
+                "roupeirop2portasdecorrer2.webp",
+                "roupeirop2portasdecorrer3.webp",
+                "roupeirop2portasdecorrer4.webp",
+                "roupeirop2portasdecorrer5.webp"
             ])
         },
         {
@@ -843,11 +843,11 @@ window.BND_MODULADOS = {
             name: "Roupeiro P 2 Portas de Giro",
             price: "R$ 3.270",
             images: buildImages("roupeiros/Roupeiro P 2 portas de giro", [
-                "roupeirop2portasdegiro1.png",
-                "roupeirop2portasdegiro2.png",
-                "roupeirop2portasdegiro3.png",
-                "roupeirop2portasdegiro4.png",
-                "roupeirop2portasdegiro5.png"
+                "roupeirop2portasdegiro1.webp",
+                "roupeirop2portasdegiro2.webp",
+                "roupeirop2portasdegiro3.webp",
+                "roupeirop2portasdegiro4.webp",
+                "roupeirop2portasdegiro5.webp"
             ])
         }
     ]
