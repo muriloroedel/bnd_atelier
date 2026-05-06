@@ -52,6 +52,13 @@ window.BND_GALLERY_ITEMS = [
         image: "./bnd_galeria/cozinha6.png", 
         alt: "Cozinha contemporanea planejada" 
     },
+    { 
+        id: "cozinha-6", 
+        category: "cozinhas", 
+        title: "Armário Sob Medida",
+        image: "./bnd_galeria/cozinha7.png", 
+        alt: "Móvel funcional" 
+    },
     /*{ 
         id: "closet-1", 
         category: "closet", 
@@ -135,7 +142,7 @@ window.BND_GALLERY_ITEMS = [
         category: "quartos", 
         title: "Dormitório sob medida", 
         image: "./bnd_galeria/quarto2.png", 
-        alt: "Dormitorio com marcenaria sob medida" 
+        alt: "Dormitório com marcenaria sob medida" 
     },
     { 
         id: "quarto-3", 
@@ -144,7 +151,27 @@ window.BND_GALLERY_ITEMS = [
         image: "./bnd_galeria/quarto3.png", 
         alt: "Quarto com armario planejado" 
     },
-
+    { 
+        id: "quarto-4", 
+        category: "quartos", 
+        title: "Dormitório sob medida", 
+        image: "./bnd_galeria/quarto4.png", 
+        alt: "Quarto planejado" 
+    },
+    { 
+        id: "quarto-5", 
+        category: "quartos", 
+        title: "Dormitório sob medida", 
+        image: "./bnd_galeria/quarto5.png", 
+        alt: "Dormitório com marcenaria sob medida" 
+    },
+    { 
+        id: "quarto-6", 
+        category: "quartos", 
+        title: "Armário planejado", 
+        image: "./bnd_galeria/quarto6.png", 
+        alt: "Móvel e penteadeira" 
+    },
     { 
         id: "painel-1", 
         category: "paineis", 
